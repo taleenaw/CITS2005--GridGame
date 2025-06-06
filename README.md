@@ -38,4 +38,4 @@ Once compiled, the `PlayVsAI.java` file allows players to play against a termina
 **Taleena Watts**  
 Second-Year Computer Science Student  
 The University of Western Australia  
-[LinkedIn](www.linkedin.com/in/taleena-watts-781421201)
+[www.linkedin.com/in/taleena-watts-781421201](https://www.linkedin.com/in/taleena-watts-781421201)

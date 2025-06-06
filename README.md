@@ -33,30 +33,6 @@ Once compiled, the `PlayVsAI.java` file allows players to play against a termina
 - The AI plays as white and always moves first.
 - The player plays as black, taking alternating turns until the game ends.
 
-## Directory Structure
-
-src/
-├── ai/
-│ ├── PlayVsAI.java
-│ ├── AI.java
-│ ├── Minimax.java
-│ ├── Heuristic.java
-│ └── MinPiecesHeuristic.java
-└── game/
-├── MoveImpl.java
-├── GridImpl.java
-├── GameImpl.java
-├── Move.java
-├── Grid.java
-├── Game.java
-├── PieceColour.java
-├── PathFinder.java
-└── tests/
-├── GameTest.java
-├── GridTest.java
-├── MoveTest.java
-└── Test.java
-
 ## Author
 
 **Taleena Watts**  
